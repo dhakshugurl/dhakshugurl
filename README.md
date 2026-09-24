@@ -2,15 +2,18 @@
 
 <div align="center">
 
-# DHakshu
+<img src="./assets/hero.svg" alt="Dhakshu — Digital Experience Studio" width="100%" />
+
+</div>
+
+## DHakshu
 ### UI/UX Designer · Creative Developer · Digital Experience Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Designing+interfaces+people+remember.;Turning+ideas+into+digital+experiences.;UI+%2B+UX+%2B+Code+%3D+Better+Products.;Crafted+with+a+15%2B+year+design+mindset." alt="Typing animation" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-dhakshugurl-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhakshugurl)
-[![Profile Views](https://komarev.com/ghpvc/?username=dhakshugurl&style=for-the-badge&color=8B5CF6)](https://github.com/dhakshugurl)
+[![GitHub](https://img.shields.io/badge/GitHub-dhakshugurl-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhakshugurl) [![Profile Views](https://komarev.com/ghpvc/?username=dhakshugurl&style=for-the-badge&color=8B5CF6)](https://github.com/dhakshugurl)
 
-</div>
+---
 
 ---
 
