@@ -1,27 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#07070A"/><stop offset="0.55" stop-color="#11111A"/><stop offset="1" stop-color="#09090D"/>
+    <stop offset="0" stop-color="#050505"/><stop offset=".52" stop-color="#171717"/><stop offset="1" stop-color="#080808"/>
   </linearGradient>
-  <radialGradient id="g1"><stop stop-color="#8B5CF6" stop-opacity=".45"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
-  <radialGradient id="g2"><stop stop-color="#22D3EE" stop-opacity=".25"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
-  <filter id="blur"><feGaussianBlur stdDeviation="38"/></filter>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#FFFFFF" stop-opacity=".12"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".025"/>
+  </linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000" flood-opacity=".6"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="26"/></filter>
 </defs>
-<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
-<circle cx="150" cy="90" r="230" fill="url(#g1)" filter="url(#blur)"/>
-<circle cx="1080" cy="350" r="260" fill="url(#g2)" filter="url(#blur)"/>
-<path d="M0 330 C220 250 360 410 560 300 S900 170 1200 260" fill="none" stroke="#8B5CF6" stroke-opacity=".18" stroke-width="2"/>
-<path d="M0 355 C260 280 400 430 650 315 S960 205 1200 285" fill="none" stroke="#22D3EE" stroke-opacity=".12" stroke-width="1"/>
-<g fill="none" stroke="#FFFFFF" stroke-opacity=".08">
-  <rect x="800" y="55" width="300" height="220" rx="20"/>
-  <rect x="830" y="85" width="240" height="15" rx="7"/>
-  <rect x="830" y="125" width="170" height="10" rx="5"/>
-  <rect x="830" y="160" width="210" height="10" rx="5"/>
-  <rect x="830" y="195" width="120" height="35" rx="12"/>
+<rect width="1200" height="560" rx="30" fill="url(#bg)"/>
+<circle cx="980" cy="100" r="170" fill="#FFF" fill-opacity=".07" filter="url(#soft)"/>
+<circle cx="120" cy="500" r="180" fill="#FFF" fill-opacity=".045" filter="url(#soft)"/>
+
+<text x="70" y="76" fill="#BDBDBD" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="4">DAKSHATA A A / DESIGN + TECHNOLOGY</text>
+<text x="70" y="132" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800">UI/UX Designer</text>
+<text x="70" y="178" fill="#A3A3A3" font-family="Arial,Helvetica,sans-serif" font-size="21">Computer Science • Product Thinking • Frontend Craft</text>
+
+<g filter="url(#shadow)">
+  <rect x="650" y="64" width="470" height="370" rx="28" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity=".13"/>
+  <circle cx="700" cy="110" r="6" fill="#FFF" fill-opacity=".9"/>
+  <circle cx="722" cy="110" r="6" fill="#FFF" fill-opacity=".35"/>
+  <circle cx="744" cy="110" r="6" fill="#FFF" fill-opacity=".14"/>
+  <text x="680" y="158" fill="#FFFFFF" font-family="Arial" font-size="14" font-weight="700" letter-spacing="2">DESIGN PROFILE</text>
+  <text x="680" y="192" fill="#D4D4D4" font-family="Arial" font-size="14">SKASC • BSc Computer Science</text>
+  <text x="680" y="218" fill="#D4D4D4" font-family="Arial" font-size="14">CGPA 8.9 • 2026</text>
+
+  <rect x="680" y="246" width="180" height="116" rx="18" fill="#FFF" fill-opacity=".055" stroke="#FFF" stroke-opacity=".09"/>
+  <text x="704" y="275" fill="#999" font-family="Arial" font-size="11" letter-spacing="2">TOOLS</text>
+  <text x="704" y="303" fill="#FFF" font-family="Arial" font-size="18" font-weight="700">FIGMA</text>
+  <text x="704" y="330" fill="#BDBDBD" font-family="Arial" font-size="13">UI / UX • Prototyping</text>
+  <text x="704" y="351" fill="#BDBDBD" font-family="Arial" font-size="13">Landing pages</text>
+
+  <rect x="880" y="246" width="210" height="116" rx="18" fill="#FFF" fill-opacity=".055" stroke="#FFF" stroke-opacity=".09"/>
+  <text x="904" y="275" fill="#999" font-family="Arial" font-size="11" letter-spacing="2">STACK</text>
+  <text x="904" y="304" fill="#FFF" font-family="Arial" font-size="15" font-weight="700">HTML • C++ • JAVA</text>
+  <text x="904" y="329" fill="#BDBDBD" font-family="Arial" font-size="13">Python • SQL • DBMS</text>
+  <text x="904" y="350" fill="#BDBDBD" font-family="Arial" font-size="13">Problem solving</text>
+
+  <rect x="680" y="382" width="410" height="24" rx="12" fill="#FFF" fill-opacity=".04"/>
+  <rect x="680" y="382" width="300" height="24" rx="12" fill="#FFF" fill-opacity=".16">
+    <animate attributeName="width" values="250;360;250" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
 </g>
-<text x="80" y="115" fill="#A78BFA" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="5">DIGITAL EXPERIENCE STUDIO</text>
-<text x="78" y="190" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800">DHakshu</text>
-<text x="82" y="235" fill="#D4D4D8" font-family="Arial,Helvetica,sans-serif" font-size="24">UI/UX • Creative Development • Product Thinking</text>
-<text x="82" y="305" fill="#71717A" font-family="Arial,Helvetica,sans-serif" font-size="16">Designing interfaces people remember.</text>
-<circle cx="1080" cy="80" r="5" fill="#8B5CF6"/><circle cx="1100" cy="80" r="5" fill="#22D3EE"/><circle cx="1120" cy="80" r="5" fill="#FFFFFF" fill-opacity=".35"/>
+
+<!-- minimal portrait-like silhouette, intentionally non-identifying -->
+<g transform="translate(90 245)">
+  <circle cx="190" cy="65" r="54" fill="#111" stroke="#FFF" stroke-opacity=".22" stroke-width="3"/>
+  <path d="M95 250c7-78 55-125 95-125s88 47 95 125" fill="#111" stroke="#FFF" stroke-opacity=".18" stroke-width="3"/>
+  <path d="M154 67c5-30 68-46 82 1-18-10-48-10-82-1z" fill="#FFF" fill-opacity=".2"/>
+  <rect x="130" y="175" width="120" height="18" rx="9" fill="#FFF" fill-opacity=".08"/>
+  <rect x="120" y="205" width="140" height="8" rx="4" fill="#FFF" fill-opacity=".08"/>
+  <rect x="145" y="222" width="90" height="8" rx="4" fill="#FFF" fill-opacity=".06"/>
+  <text x="0" y="295" fill="#FFFFFF" font-family="Arial" font-size="13" letter-spacing="3">THINK • DESIGN • BUILD</text>
+</g>
+
+<!-- floating wireframes -->
+<g stroke="#FFF" stroke-opacity=".13" fill="none">
+  <rect x="360" y="280" width="105" height="150" rx="16"/>
+  <rect x="380" y="300" width="64" height="7" rx="3"/>
+  <rect x="380" y="323" width="44" height="6" rx="3"/>
+  <rect x="380" y="350" width="65" height="42" rx="10"/>
+  <rect x="485" y="250" width="110" height="180" rx="16"/>
+  <rect x="505" y="273" width="68" height="8" rx="4"/>
+  <rect x="505" y="302" width="78" height="7" rx="3"/>
+  <rect x="505" y="324" width="50" height="7" rx="3"/>
+  <rect x="505" y="360" width="72" height="38" rx="10"/>
+</g>
+
+<text x="70" y="510" fill="#6B6B6B" font-family="Arial" font-size="12" letter-spacing="2">ATS ELGI EX-INTERN • UI/UX USING FIGMA • RECIPE FINDER • COMPANY CHATBOT</text>
 </svg>
