@@ -1,183 +1,281 @@
-<!-- DHakshu | Premium UI/UX Portfolio Profile -->
+<!-- DAKSHATA A A | UI/UX + Computer Science Portfolio -->
 
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Dhakshu — Digital Experience Studio" width="100%" />
-
-</div>
-
-## DHakshu
-### UI/UX Designer · Creative Developer · Digital Experience Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Designing+interfaces+people+remember.;Turning+ideas+into+digital+experiences.;UI+%2B+UX+%2B+Code+%3D+Better+Products.;Crafted+with+a+15%2B+year+design+mindset." alt="Typing animation" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-dhakshugurl-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhakshugurl) [![Profile Views](https://komarev.com/ghpvc/?username=dhakshugurl&style=for-the-badge&color=8B5CF6)](https://github.com/dhakshugurl)
-
----
-
----
-
-## ✦ THE DESIGNER'S NOTE
-
-> **I don't just design screens. I design the feeling between the user and the product.**
-
-I'm **Dhakshu**, a UI/UX-focused creative who enjoys turning complex ideas into interfaces that feel **clear, modern, intentional, and memorable**.
-
-My approach combines **visual design, interaction thinking, frontend implementation, and product storytelling** — because great design should not only look good, it should make the next action feel obvious.
-
-Think of this profile as a small **digital studio** rather than a conventional developer bio.
-
-
----
-
-## ✦ DESIGN PLAYGROUND
-
-<div align="center">
-
-<img src="./assets/design-playground.svg" alt="Animated UI design playground" width="100%" />
-
-</div>
-
-> **Not a game. Not decoration. A visual interaction study.**
->
-> I use motion to show hierarchy, feedback, rhythm and personality — the same principles I bring into real product interfaces.
-
-
----
-
-## ◉ DESIGN PHILOSOPHY
-
-| 01 · CLARITY | 02 · EMOTION | 03 · SYSTEMS | 04 · DETAIL |
-|---|---|---|---|
-| Less noise. More meaning. | Interfaces should feel alive. | Consistency creates confidence. | The last 10% changes everything. |
-
----
-
-## ✦ WHAT I CREATE
-
-| Area | What it means |
-|---|---|
-| **UI Design** | Clean, premium and conversion-focused interfaces |
-| **UX Design** | User flows, information architecture and friction reduction |
-| **Design Systems** | Reusable components, tokens and visual consistency |
-| **Web Experiences** | Responsive websites with strong visual hierarchy |
-| **Frontend** | Bringing designs to life with modern web technologies |
-| **Creative Direction** | Visual language, interaction patterns and product identity |
-| **Prototyping** | Turning concepts into realistic interactive experiences |
-
----
-
-## ◈ MY CREATIVE STACK
-
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F24E1E) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-111111?style=flat-square&logo=adobexd&logoColor=FF61F6) ![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF) ![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
-
-### Development
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB) ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF)
-
-### Currently Exploring
-
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=flat-square&logo=framer&logoColor=FFFFFF) ![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=FFFFFF)
-
----
-
-## ⌁ SELECTED WORK
-
-> **A portfolio is stronger when the work tells the story.**
-
-### ◇ Weather Forecasting — ML Experience
-A weather prediction project where **data, machine learning and interface design** meet.
-**Focus:** Prediction · Data Visualization · User Flow · Responsive UI
-
-### ◇ Motor Third-Party Insurance Experience
-A concept for simplifying the journey of buying and understanding **motor third-party insurance**.
-**Focus:** Information Architecture · Form UX · Trust · Accessibility · Conversion
-
-### ◇ Digital Interface Experiments
-A collection of experiments exploring **glassmorphism, modern landing pages, micro-interactions, motion-driven UI, responsive layouts, premium dark interfaces, and AI-inspired experiences**.
-
----
-
-## ✦ HOW I THINK
-
-**Observe → Simplify → Design → Prototype → Test → Refine → Ship**
-
-Every interface starts with a problem, becomes a structure, turns into a visual system, and ends with a usable experience.
-
----
-
-## ◌ WHAT I CARE ABOUT
-
-**01 — Human-centered design**  
-Interfaces should respect the user's time and attention.
-
-**02 — Visual hierarchy**  
-A good interface tells the eye where to go next.
-
-**03 — Motion with purpose**  
-Animation should communicate, guide or delight — never distract.
-
-**04 — Accessibility**  
-Beautiful experiences should remain usable for everyone.
-
-**05 — Design × Code**  
-When designers understand implementation, ideas become more realistic and more powerful.
-
----
-
-## ⌁ CURRENTLY BUILDING
-
-<div align="center">
-
-**Beautiful interfaces. Useful products. Better digital experiences.**
-
-UI/UX · Frontend · Creative Development · Product Thinking
-
-</div>
-
----
-
-## ✦ GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhakshugurl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakshugurl&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+<img src="./assets/hero.svg" alt="Dakshata A A — UI/UX Designer Portfolio" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=dhakshugurl&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<a href="mailto:dakshataanand@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/dhakshuanand">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/dhakshugurl">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=dhakshugurl&style=for-the-badge&color=111111" alt="Profile views" />
 
 </div>
 
 ---
 
-## ⌘ THE SENIOR-DESIGNER MINDSET
+## 01 / PROFILE
 
-> **Good UI makes a product usable.**  
-> **Good UX makes it understandable.**  
-> **Great product design makes it feel inevitable.**
+> ### **I design interfaces with clarity, curiosity and a builder's mindset.**
 
-I aim for that third level.
+I'm **Dakshata A A**, a **BSc Computer Science student** with a strong interest in **UI/UX design, frontend experiences and digital product thinking**.
 
-Not more screens.  
-Not more effects.  
-Not more buttons.
+I enjoy moving from **idea → structure → interface → implementation**, combining visual thinking with technical foundations.
 
-**Better decisions.**
-
----
-
-## ✦ LET'S CREATE SOMETHING
+My sweet spot is where **design meets code**.
 
 <div align="center">
 
-### **Let's turn the idea into an experience.**
+| DESIGN | BUILD | THINK |
+|:---:|:---:|:---:|
+| UI/UX · Figma | HTML · C++ · Java | Problem Solving · Analytical Thinking |
+| Prototyping · Layouts | Python · SQL · DBMS | Communication · Leadership |
+| Visual Hierarchy | Frontend Foundations | User-focused Thinking |
 
-[![EXPLORE MY WORK](https://img.shields.io/badge/EXPLORE_MY_WORK-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhakshugurl)
+</div>
+
+---
+
+## 02 / DESIGN POINT OF VIEW
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 01
+**CLARITY**
+
+Make the next action obvious.
+
+</td>
+<td width="25%" align="center">
+
+### 02
+**STRUCTURE**
+
+Organize information before styling it.
+
+</td>
+<td width="25%" align="center">
+
+### 03
+**DETAIL**
+
+Small interactions shape the experience.
+
+</td>
+<td width="25%" align="center">
+
+### 04
+**PURPOSE**
+
+Every visual element should earn its place.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / EXPERIENCE
+
+### **ATS ELGI Pvt. Ltd. — Ex-Intern**
+**May 02, 2025 — June 04, 2025**
+
+**Design + Implementation**
+
+- Led the design and implementation process for multiple landing pages across different projects.
+- Worked across the visual and implementation side of web experiences.
+- Focused on creating clear, usable and visually structured landing-page layouts.
+
+> **Experience focus:** Landing Pages · UI Design · Implementation · Visual Structure
+
+---
+
+## 04 / SELECTED WORK
+
+### ◇ RECIPE FINDER
+**Jun 2024 — Nov 2024**
+
+An application designed to help users find the recipe they need quickly.
+
+**Role / Focus:** Interface · User Flow · Frontend
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### ◇ COMPANY CHATBOT
+
+A company-assistance chatbot developed to make product and company information easier to access.
+
+**Role / Focus:** Information Access · User Interaction · Problem Solving
+
+**Tech direction:** Programming · Data Handling · User-focused Interaction
+
+---
+
+### ◇ UI / UX DESIGN EXPLORATIONS
+
+A growing space for experimenting with:
+
+**Wireframes · Figma · Landing Pages · Responsive Layouts · Visual Hierarchy · Micro-interactions · Design Systems**
+
+---
+
+## 05 / CREATIVE PLAYGROUND
+
+<div align="center">
+
+<img src="./assets/design-playground.svg" alt="Monochrome animated UI design playground" width="100%" />
+
+</div>
+
+> **A visual interaction study — not a game.**
+>
+> Motion, rhythm, feedback and hierarchy are used here as design principles.
+
+---
+
+## 06 / DESIGN TOOLKIT
+
+### UI / UX
+
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-111111?style=flat-square&logo=adobexd&logoColor=white)
+
+### Development
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20Basics-111111?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Basics-111111?style=flat-square&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-111111?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
+## 07 / COMPUTER SCIENCE FOUNDATION
+
+<table>
+<tr><td>Data Structures & Algorithms</td><td>Database Management Systems</td></tr>
+<tr><td>Operating Systems</td><td>Computer Networks</td></tr>
+<tr><td>Object-Oriented Programming</td><td>Problem Solving</td></tr>
+</table>
+
+---
+
+## 08 / EDUCATION
+
+### **Sri Krishna Arts and Science College — 2026**
+**BSc in Computer Science**
+
+**CGPA: 8.9**
+
+### **Vivek Vidya Mandir CBSE**
+**SSLC — 2021:** 88%
+
+**Vivek Vidyalaya Matric Hr. Sec. School**  
+**HSC — 2023:** 83%
+
+---
+
+## 09 / CERTIFICATIONS
+
+| Certification | Provider |
+|---|---|
+| **UI/UX Using Figma** | Sri Krishna I-Tech and Management |
+| **Developing and Enhancing Soft Skills** | NPTEL |
+| **Cybersecurity Foundation** | Coursera |
+| **C, C++, Java, RDBMS** | Spoken Tutorial |
+
+---
+
+## 10 / ACHIEVEMENT
+
+### **National Conference**
+**On Deep Learning & Computer Interaction for Sustainability**
+
+---
+
+## 11 / PEOPLE SKILLS
+
+**Communication** · **Leadership** · **Time Management** · **Analytical Thinking** · **Problem Solving**
+
+---
+
+## 12 / BEYOND THE SCREEN
+
+**Pencil Sketching**  
+**Artist**  
+**Handball Player**
+
+I like the same things in physical art and digital design:
+
+**Observation · Balance · Rhythm · Expression**
+
+---
+
+## 13 / LANGUAGES
+
+**Tamil** · **English** · **Hindi (Basic)**
+
+---
+
+## 14 / CURRENT FOCUS
+
+<div align="center">
+
+### **Design better. Build smarter. Keep the experience human.**
+
+**UI/UX → Frontend → Product Thinking**
+
+</div>
+
+---
+
+## 15 / GITHUB SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhakshugurl&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=444444&icon_color=111111" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakshugurl&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=444444" height="165" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dhakshugurl&hide_border=true&theme=transparent&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&currStreakNum=111111&sideNums=111111&dates=777777" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 16 / LET'S CONNECT
+
+<div align="center">
+
+### **Have an idea worth designing?**
+
+Let's turn it into something people can understand, use and remember.
+
+<br/>
+
+<a href="mailto:dakshataanand@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20TALK-111111?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Let's talk" />
+</a>
+
+<br/><br/>
+
+**dakshataanand@gmail.com**  
+**linkedin.com/dhakshuanand**
 
 </div>
 
@@ -185,8 +283,8 @@ Not more buttons.
 
 <div align="center">
 
-### Made with intention, curiosity & a slightly unhealthy obsession with pixels.
+### **DESIGNED WITH INTENTION. BUILT WITH CURIOSITY.**
 
-**© Dhakshu · Designed for the web · Built with curiosity**
+**Dakshata A A · UI/UX Designer · Computer Science**
 
 </div>
