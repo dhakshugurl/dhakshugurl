@@ -27,6 +27,22 @@ My approach combines **visual design, interaction thinking, frontend implementat
 
 Think of this profile as a small **digital studio** rather than a conventional developer bio.
 
+
+---
+
+## ✦ DESIGN PLAYGROUND
+
+<div align="center">
+
+<img src="./assets/design-playground.svg" alt="Animated UI design playground" width="100%" />
+
+</div>
+
+> **Not a game. Not decoration. A visual interaction study.**
+>
+> I use motion to show hierarchy, feedback, rhythm and personality — the same principles I bring into real product interfaces.
+
+
 ---
 
 ## ◉ DESIGN PHILOSOPHY
