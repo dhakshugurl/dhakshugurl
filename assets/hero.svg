@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07070A"/><stop offset="0.55" stop-color="#11111A"/><stop offset="1" stop-color="#09090D"/>
+  </linearGradient>
+  <radialGradient id="g1"><stop stop-color="#8B5CF6" stop-opacity=".45"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2"><stop stop-color="#22D3EE" stop-opacity=".25"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="38"/></filter>
+</defs>
+<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+<circle cx="150" cy="90" r="230" fill="url(#g1)" filter="url(#blur)"/>
+<circle cx="1080" cy="350" r="260" fill="url(#g2)" filter="url(#blur)"/>
+<path d="M0 330 C220 250 360 410 560 300 S900 170 1200 260" fill="none" stroke="#8B5CF6" stroke-opacity=".18" stroke-width="2"/>
+<path d="M0 355 C260 280 400 430 650 315 S960 205 1200 285" fill="none" stroke="#22D3EE" stroke-opacity=".12" stroke-width="1"/>
+<g fill="none" stroke="#FFFFFF" stroke-opacity=".08">
+  <rect x="800" y="55" width="300" height="220" rx="20"/>
+  <rect x="830" y="85" width="240" height="15" rx="7"/>
+  <rect x="830" y="125" width="170" height="10" rx="5"/>
+  <rect x="830" y="160" width="210" height="10" rx="5"/>
+  <rect x="830" y="195" width="120" height="35" rx="12"/>
+</g>
+<text x="80" y="115" fill="#A78BFA" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="5">DIGITAL EXPERIENCE STUDIO</text>
+<text x="78" y="190" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800">DHakshu</text>
+<text x="82" y="235" fill="#D4D4D8" font-family="Arial,Helvetica,sans-serif" font-size="24">UI/UX • Creative Development • Product Thinking</text>
+<text x="82" y="305" fill="#71717A" font-family="Arial,Helvetica,sans-serif" font-size="16">Designing interfaces people remember.</text>
+<circle cx="1080" cy="80" r="5" fill="#8B5CF6"/><circle cx="1100" cy="80" r="5" fill="#22D3EE"/><circle cx="1120" cy="80" r="5" fill="#FFFFFF" fill-opacity=".35"/>
+</svg>
